@@ -4,7 +4,7 @@ body{
 .cardsets{
         display: flex;
         justify-content: center; 
-        align-items: center; 
+        margin-bottom: 25%;
         gap: 20px; 
         padding: 20px;
       }
